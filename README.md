@@ -26,3 +26,13 @@ export default () => (
   </div>
 )
 ```
+
+### Development
+
+```bash
+git clone git@github.com:electron-react/ui.git electron-react/ui
+cd electron-react/ui
+npm install
+
+npm run dev
+```
